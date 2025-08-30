@@ -1,0 +1,13 @@
+.App {
+  height: 100vh;
+  background-color: #191919;
+  justify-content: space-between;
+  color: white;
+}
+
+.Main {
+  padding: 40px;
+
+}
+
+

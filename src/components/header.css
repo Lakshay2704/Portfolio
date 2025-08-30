@@ -1,0 +1,27 @@
+.Header {
+    display: flex;
+
+    .Logo {
+        width: 40%;
+        background-color: brown;
+        display: flex;
+        padding: 5px;
+        align-content: center;
+        flex-wrap: wrap;
+    }
+
+    .Navigation {
+        width: 60%;
+        display: flex;
+        justify-content: space-around;
+
+        .Buttons {
+            background-color: brown;
+            display: flex;
+            justify-content: center;
+            padding: 5px;
+            align-content: center;
+            flex-wrap: wrap;
+        }
+    }
+}
